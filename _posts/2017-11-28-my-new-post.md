@@ -6,4 +6,4 @@ date: 2017-11-28 15:14:50
 ---
 
 
-This is the content for my [new post](/about/).&nbsp;
+![](/uploads/versions/dashboard---x----794-500x---.png)This is the content for my [new post](/about/).&nbsp;
